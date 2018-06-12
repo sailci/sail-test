@@ -1,0 +1,6 @@
+{
+  "name": "sail-test",
+  "scripts": {
+    "_pre-sail": "sleep 60"
+  }
+}
